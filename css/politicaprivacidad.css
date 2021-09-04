@@ -1,0 +1,32 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    text-align: center;
+    background-color: #007369;
+    border-color: #009999;
+    border-width: 3px;
+    border-style: solid;
+    color: #F1E8F4;
+}
+h2 {
+    text-align: center;
+    background-color: #007369;
+    color: #A4D4Cd;
+}
+h3{
+    color: black;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+#barra{
+    text-align: center;
+    
+}
+body{
+    background-color: #A4D4CF;
+}
+
+

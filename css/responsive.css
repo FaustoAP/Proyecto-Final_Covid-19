@@ -1,0 +1,56 @@
+/*Celulares*/
+@media screen and (max-width: 500px){
+   header{
+    padding-left: 20%;
+    background-color: #007369;
+    border-color: #009999;
+    border-width: 3px;
+    border-style: solid;
+    color: #F1E8F4;
+    vertical-align: middle;
+   } 
+   header > h1{
+    display: inline-block;
+    margin-left: 20px;
+    text-align: start;
+   }
+   .logo{
+      display: none;
+   }
+   #buscar{
+      font-size: 20px;
+   }
+   .video{
+      display: none;
+   }
+   h3{
+      font-size: 15px;
+   }
+   #elem, #estadisticas{
+      font-size: 14px;
+   }
+} 
+/* Tabletas y IPads */
+@media screen and (min-width:768px) and (max-width:1024px){
+   #buscar{
+      font-size: 10px;
+   }
+   header{
+      padding-left: 15%;
+   }
+   #elem, #estadisticas{
+      padding-left: 11.5%;
+   }
+
+}
+/* Escritorio Grande */
+@media screen and (min-width: 1080px) and (max-width: 1920px){
+   
+   #buscar{
+      font-size: 20px;
+   }
+   #elem, #estadisticas{
+      padding-left: 17.5%;
+   }
+
+}

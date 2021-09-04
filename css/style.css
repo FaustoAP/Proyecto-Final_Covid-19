@@ -1,0 +1,86 @@
+header {
+    padding-left: 30%;
+    background-color: #007369;
+    border-color: #009999;
+    border-width: 3px;
+    border-style: solid;
+    color: #F1E8F4;
+    vertical-align: middle;
+}
+header > h1 {
+    display: inline-block;
+    margin-left: 20px;
+    text-align: center;
+    font-size: 40px;
+}    
+header > img {
+    width: 80px;
+
+}
+header > img, h1 {
+    vertical-align: middle;
+}
+
+/*#activostext, #defuncionestext, #casostext{
+font-weight: 600;
+font-size: 20px;
+color:#F1E8F4;
+padding-top:15px;
+padding-bottom:15px;
+padding-left:40px;
+padding-right:40px;
+background-color:#007369;
+border-color: #009999;
+border-width: 3px;
+border-style: solid;
+text-align: center;
+
+}*/
+a {
+    text-decoration: none;
+}
+footer {
+    text-align: center;
+    font-size: 17px;
+    
+}
+*{
+    font-family: 'Roboto', sans-serif;
+}
+#info1, #info2 {
+    text-align: center;
+
+}
+.datos {
+    text-align: center;
+    background-color:#007369;
+border-color: #009999;
+border-width: 3px;
+border-style: solid;
+text-align: center;
+color:#F1E8F4;
+
+}
+
+body {
+    background-color: #A4D4CF;
+}
+.video {
+    text-align: center;
+    
+}
+#buscar{
+    padding-top: 16px;
+    text-align: center;
+  
+}
+#elem, #estadisticas{
+    vertical-align: middle;
+    display: inline-block;
+    font-size: 20px;
+    padding-left: 15%;
+}
+#elem{
+    text-align: center;
+   font-weight: bold
+}
